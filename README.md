@@ -1,4 +1,4 @@
-# PrimeTrade AI Internship Assignment
+# PrimeTrade AI Sentiment Analysis
 
 ## Objective
 
