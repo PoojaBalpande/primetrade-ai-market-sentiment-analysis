@@ -134,6 +134,20 @@ jupyter notebook
 
 ---
 
+## Results
+
+### Average Closed PnL by Market Sentiment
+
+![PnL](outputs/pnl.png)
+
+### Win Rate by Market Sentiment
+
+![Win Rate](outputs/winrate.png)
+
+### Correlation Matrix
+
+![Correlation](outputs/correlation.png)
+
 ## 📈 Conclusion
 
 This project demonstrates how external market sentiment indicators can be integrated with trading data to understand trader behavior and profitability.
