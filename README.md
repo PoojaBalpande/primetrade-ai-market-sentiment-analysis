@@ -103,8 +103,6 @@ primetrade-ai-market-sentiment-analysis/
 │
 ├── reports/
 │
-├── src/
-│
 ├── requirements.txt
 │
 └── README.md
